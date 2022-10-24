@@ -20,8 +20,8 @@
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/vigneronluc//#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vigneronluc//#gh-dark-mode-only)
 
-Discord : Sakuto#7777\
-Mail : Vigneronlucweb@gmail.com
+Discord : PrieurNicolas#8206\
+Mail : Nicolasprieur22@gmail.com
 
 
 ### Languages and Tools:
