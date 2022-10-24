@@ -9,18 +9,16 @@
 
 ### Contact me ?
 
-
+Discord : PrieurNicolas#8206\
+Mail : Nicolasprieur22@gmail.com
 
 ### Connect with me:
 
 [![img_contact](./img/globe-light.svg)](https://estcequecestbientotleweekend.fr/#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://estcequecestbientotleweekend.fr/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/vigneronluc//#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vigneronluc//#gh-dark-mode-only)
-
-Discord : PrieurNicolas#8206\
-Mail : Nicolasprieur22@gmail.com
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-prieur-b1a096227//#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-prieur-b1a096227//#gh-dark-mode-only)
 
 
 ### Languages and Tools:
