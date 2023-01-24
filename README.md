@@ -17,8 +17,8 @@ Mail : Nicolasprieur22@gmail.com
 [![img_contact](./img/globe-light.svg)](https://estcequecestbientotleweekend.fr/#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://estcequecestbientotleweekend.fr/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-prieur-b1a096227//#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-prieur-b1a096227//#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-prieur-b1a096227)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-prieur-b1a096227)
 
 
 ### Languages and Tools:
